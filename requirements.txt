@@ -1,0 +1,7 @@
+numpy
+faiss-cpu
+requests
+tqdm
+sentence-transformers
+PyMuPDF
+
