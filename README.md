@@ -36,8 +36,8 @@ project-root/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/pdf-rag-pipeline.git
-cd pdf-rag-pipeline
+git clone https://github.com/yourusername/rag_pipeline.git
+cd rag_pipeline
 ```
 
 ### 2. Set up Python environment
